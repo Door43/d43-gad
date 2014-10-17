@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gad:home|Door43 (gad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gad|d43-gad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gad/archive/master.zip|d43-gad.zip]]
+
+**Recent Changes**
+{{changes>ns = gad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gad|Ethnologue data]]
+
